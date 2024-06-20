@@ -1,16 +1,13 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Hello! I am Shriniwas Kulkarni
+I will be doing my Master's in CS from UCSD starting Sept. 2024
+Currently working full time as an SDE at Oracle (OCI)
 
 #### GitHub
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+[![Shrinivas-kulkarni9](https://img.shields.io/badge/Shrinivas-kulkarni9-github-blue?logo=github)](https://github.com/Shrinivas-kulkarni9)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer Vision, Image Processing, Deep Learning, Artificial Intelligence, Game Theory
+
+#### Email
+s7kulkarni[at]ucsd.edu
+shrinivask.2k[at]gmail.com
